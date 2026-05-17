@@ -124,4 +124,4 @@ O projeto está configurado para deploy no **Render**. O arquivo `build.sh` exec
 
 ## 👩‍💻 Autora
 
-Ana Julia — [github.com/AnaJuliaPin1h](https://github.com/AnaJuliaPin1h)
+Ana Julia Pinheiro — [github.com/AnaJuliaPin1h](https://github.com/AnaJuliaPin1h)
